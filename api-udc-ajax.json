@@ -1,0 +1,66 @@
+[{
+        "name": "abdelmajid",
+        "age": 30,
+        "skills": [
+            "web developer",
+            "public speaking "
+        ]
+    },
+    {
+        "name": "salim",
+        "age": 45,
+        "skills": [
+            "public speaking ",
+            "copywriter"
+        ]
+    },
+    {
+        "name": "wasim",
+        "age": 21,
+        "skills": [
+            "graphic designer",
+            "voice over ",
+            "copywriter"
+        ]
+    },
+    {
+        "name": "yasmine",
+        "age": 26,
+        "skills": [
+            "Archivist ",
+            "Foster parent ",
+            "Careers advisor "
+        ]
+    },
+    {
+        "name": "zakaria",
+        "age": 22,
+        "skills": [
+            "Business owner"
+        ]
+    },
+    {
+        "name": "Sabrina ",
+        "age": 44,
+        "skills": [
+            "Nurse",
+            "Foster parent ",
+            "Architect "
+        ]
+    },
+    {
+        "name": "Julia ",
+        "age": 26,
+        "skills": [
+            "Sailor ",
+            "Careers advisor "
+        ]
+    },
+    {
+        "name": "Cedric ",
+        "age": 28,
+        "skills": [
+            "Chiropodist "
+        ]
+    }
+]
